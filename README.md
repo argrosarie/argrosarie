@@ -2,7 +2,6 @@
 #### I am a Front-End developer from Argentina.
 
 - 🔭 I’m currently working on a brand new and awesome project. 
-- 🌱 I’m currently learning blockchain stuff. 
 - 😄 Pronouns: She/Her/Ella. 
 
 
