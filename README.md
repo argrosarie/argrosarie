@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Statistics**
 
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://argrosarie.web.app/)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://www.rosariosanchez.tech/)
 
 - 💬 Ask me about **Frontend Development**
 
