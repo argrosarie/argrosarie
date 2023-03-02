@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👽, I'm Rosario</h1>
 <h3 align="center">A Frontend Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [personal projects](https://argrosarie.web.app/)
+- 🔭 I’m currently working on [personal projects](https://rosariosanchez.tech/)
 
-- 🌱 I’m currently learning **Python, Statistics**
+- 🌱 I’m currently learning **Algorithms and data structures, backend development, C# and .NET**
 
 - 👨‍💻 Some of my projects are available at [My Portfolio](https://www.rosariosanchez.tech/)
 
