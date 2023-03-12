@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **rosariosanchezsampietro@gmail.com**
-
 - ⚡ Fun fact **I'm a very talented swimmer**
 
 
