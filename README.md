@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Desarrollos NEA](https://www.desarrollosnea.com/)
 
-- 🌱 I’m currently learning **NEXT js*
+- 🌱 I’m currently learning **NEXT js**
 
 - 👨‍💻 Some of my projects are available at [My Portfolio](https://www.rosariosanchez.tech/)
 
