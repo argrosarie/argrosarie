@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👽, I'm Rosario</h1>
 <h3 align="center">A Frontend Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [personal projects](https://rosariosanchez.tech/)
+- 🔭 I’m currently working on [Desarrollos NEA](https://www.desarrollosnea.com/)
 
 - 🌱 I’m currently learning **Algorithms and data structures, backend development, C# and .NET**
 
